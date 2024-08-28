@@ -1,4 +1,14 @@
-### Hi there 👋
+<!-- Intro  -->
+<h3 align="center">
+        <samp>&gt; Hey There!, I am
+                <b>Santosh Tamang</b>
+        </samp>
+  
+</h3>
+
+<p align="center" >
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+code&pause=1000&color=F7F7F7&lines=Computer+Science+Undergraduate;Full+Stack+Software+Engineer;&center=true&width=500&height=50"></a>
+</p>
 
 <p align="left">
   <a href="https://github.com/tamanglhosantosh?tab=repositories" target="_blank"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white"/></a>
