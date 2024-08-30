@@ -7,7 +7,7 @@
 </h3>
 
 <p align="center" >
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+code&pause=1000&color=F7F7F7&lines=Computer+Science+Undergraduate;Full+Stack+Software+Engineer;&center=true&width=500&height=50"></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+code&pause=1000&color=F7F7F7&lines=Computer+Science+Student;Full+Stack+Software+Engineer;&center=true&width=500&height=50"></a>
 </p>
 
 <br/>
